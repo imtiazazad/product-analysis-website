@@ -1,4 +1,5 @@
 import React from 'react';
+import CustomLink from '../CustomLink/CustomLink';
 
 const Home = () => {
     return (
@@ -17,7 +18,7 @@ const Home = () => {
 
             <div>
                 <h2 className='justify-center'>Customer Reviews</h2>
-
+                <button className=' '><CustomLink to="/reviews" className='px-14 py-1 bg-blue-400 text-white rounded'>See All Reviews</CustomLink></button>
             </div>
         </div>
     );

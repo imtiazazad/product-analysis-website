@@ -1,3 +1,15 @@
+# Product Analysis Website
+
+Private repo link: (https://github.com/programming-hero-web-course-4/product-analysis-website-imtiazazad).
+Netlify link: 
+
+## Works that have been done
+
+- Used react rout as menu
+- Made different folders inside components
+- On dashboard page there is charts
+- Worked with tailwind
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
