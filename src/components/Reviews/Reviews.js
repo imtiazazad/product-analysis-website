@@ -1,6 +1,6 @@
 import React from 'react';
 
-const CustomerReviews = () => {
+const Reviews = () => {
     return (
         <div className='grid grid-cols-3 gap-3'>
             <div className='bg-indigo-100 p-4 m-4'>
@@ -19,8 +19,7 @@ const CustomerReviews = () => {
             </div>
             <button className='bg-blue-200 justify-center'>Reviews</button>
         </div>
-        
     );
 };
 
-export default CustomerReviews;
+export default Reviews;

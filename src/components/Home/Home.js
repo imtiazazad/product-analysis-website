@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Content = () => {
+const Home = () => {
     return (
         <div>
             <div className='flex w-full'>
@@ -23,4 +23,4 @@ const Content = () => {
     );
 };
 
-export default Content;
+export default Home;
