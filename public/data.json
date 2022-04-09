@@ -1,34 +1,40 @@
 [
     {
               "id": 1,
-              "name": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-              "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+              "name": "Abi Sarra",
+              "body": "This is a great product, used for a long time, no complaint at all, enjoyed it!",
+              "rating": "4 out of 5"
             },
             {
    
               "id": 2,
-              "name": "qui est esse",
-              "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+              "name": "Silux pizara",
+              "body": "Sounds so clear and sharp view, performance was great, gaming experience was amazing",
+              "rating": "4 out of 5"
             },
             {
 
               "id": 3,
-              "Name": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
-              "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+              "name": "Karim Banzeema",
+              "body": "One of the trending tech in this generation. VR makes feel to adjust with virtual reality.",
+              "rating": "4.5 out of 5"
             },
             {
               "id": 4,
-              "name": "eum et est occaecati",
-              "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit"
+              "name": "Abid khan",
+              "body": "If you're looking for a completely immersive virtual reality experience for gaming or working out, then VR headsets are absolutely worth the money. You don't even have to be a hardcore gamer to get the most out of your headset.",
+              "rating": "4.3 out of 5"
             },
             {
               "id": 5,
-              "name": "nesciunt quas odio",
-              "body": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque"
+              "name": "Ariza Parish",
+              "body": "The incredible thing about the technology is that you feel like you're actually present in another place with other people. People who try it say it's different from anything they've ever experienced in their lives.",
+              "rating": "4.1 out of 5"
             },
             {
               "id": 6,
-              "name": "dolorem eum magni eos aperiam quia",
-              "body": "ut aspernatur corporis harum nihil quis provident sequi\nmollitia nobis aliquid molestiae\nperspiciatis et ea nemo ab reprehenderit accusantium quas\nvoluptate dolores velit et doloremque molestiae"
+              "name": "Kimi Lame",
+              "body": "While VR headsets may cause concerns about potential harm to our vision, they also can help people enhance their vision. Under the guidance of an eye care professional, a VR headset can be used to improve eye coordination, hand-eye coordination, depth perception and reaction time",
+              "rating": "4.9 out of 5"
             }
 ]

@@ -1,7 +1,11 @@
 import React from 'react';
+import UseReview from '../../Hooks/UseReview';
 import CustomLink from '../CustomLink/CustomLink';
+import ReviewCart from '../ReviewCart/ReviewCart';
 
 const Home = () => {
+    const [reviews, setReviews] = UseReview();
+    const threeReview = reviews.slice(0, 3);
     return (
         <div>
             <div className='flex w-full'>
@@ -17,7 +21,18 @@ const Home = () => {
 
             <div>
                 <h2 className='justify-center'>Customer Reviews</h2>
-                <button className=' '><CustomLink to="/reviews" className='px-14 py-1 bg-blue-400 text-white rounded'>See All Reviews</CustomLink></button>
+                <div className=' grid grid-cols-3 text-left mt-10'>
+                {
+                threeReview.map( review => (
+                <ReviewCart
+                key={review.id}
+                reviewData={review}
+                ></ReviewCart>
+                ))
+            }
+        </div>  
+                
+               <button className=' '><CustomLink to="/reviews" className='px-14 py-1 bg-blue-400 text-white rounded'>See All Reviews</CustomLink></button>
             </div>
         </div>
     );
