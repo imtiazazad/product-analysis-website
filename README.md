@@ -1,7 +1,7 @@
 # Product Analysis Website
 
 Private repo link: (https://github.com/programming-hero-web-course-4/product-analysis-website-imtiazazad).
-Netlify link: 
+Netlify link: (https://aquamarine-lokum-cdc945.netlify.app/)
 
 ## Works that have been done
 
